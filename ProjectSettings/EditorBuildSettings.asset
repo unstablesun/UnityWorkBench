@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BootStrap.unity
+    guid: 3db92d20e5d7b4289b7fc31f4a93e06f
+  - enabled: 1
+    path: Assets/Scenes/BaseScene.unity
+    guid: 64282444643ee4d9081abf7a48ad5ac4
+  - enabled: 1
+    path: Assets/Scenes/OverlayB.unity
+    guid: 805fc97eb1e414e2d964ccfffbb784c1
+  - enabled: 1
+    path: Assets/Scenes/MenuSceneB.unity
+    guid: e16a32ca5d9b145899ef2c5830a099a3
