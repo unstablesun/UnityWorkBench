@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneStack : MonoBehaviourSingletonPersistent<SceneStack> 
+public class SceneStack : Singleton<SceneStack> 
 {
 	public enum StackItemType
 	{
